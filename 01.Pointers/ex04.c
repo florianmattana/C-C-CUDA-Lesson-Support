@@ -34,7 +34,6 @@ int main() {
     if (ptr == NULL) {
         printf("7. ptr is NULL, safely avoided use after free\n");
     }
-
     return 0;
 }
 
