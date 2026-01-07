@@ -1,0 +1,10 @@
+# Ignore all Windows executables
+*.exe
+
+# Optional: ignore other common binaries
+*.dll
+*.obj
+*.o
+*.pyc
+*.vscode
+*.vscode
