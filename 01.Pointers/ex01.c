@@ -20,4 +20,12 @@ This means that a float is less precise since it can store fewer digits after th
 8.0 is a double by default in C/C++.
 In float x = 8.0;, the literal is a double and is implicitly converted to float.
 Use 8.0f to make the literal a float in case of a repeated loop.Otherwise keep double for precision
+
+Data Type	Memory Size
+bool	    1 byte
+char	    1 byte
+int	        4 bytes
+float	    4 bytes
+double	    8 bytes
+std::string	24 bytes
 */ 
