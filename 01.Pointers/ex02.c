@@ -26,7 +26,7 @@ _ptrValue
        |
        v
     value = 8.4
-
+    
 You can chain pointers as many times as you like, but each level requires one more * to dereference. This is useful in some advanced cases like multi-level data structures, dynamic arrays of pointers, or passing pointers by reference.
 
 */
